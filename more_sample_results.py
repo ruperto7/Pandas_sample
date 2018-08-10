@@ -4,7 +4,7 @@ import pandas as pd
 
 df=pd.read_csv("WA_Sales_Products_2012-14.csv")
 
-''' ython 3.6.0 (v3.6.0:41df79263a11, Dec 23 2016, 08:06:12) [MSC v.1900 64 bit (AMD64)] on win32
+''' Python 3.6.0 (v3.6.0:41df79263a11, Dec 23 2016, 08:06:12) [MSC v.1900 64 bit (AMD64)] on win32
 Type "copyright", "credits" or "license()" for more information.
 >>> 
  RESTART: C:\Users\711C\Downloads\_MOOCS DOST May 2018\MOD 3. Data Science\mod3 week5\Watson Analytics\wa.py 
