@@ -16,5 +16,5 @@ FILE: CSV analytics sample.ipynb
     
 FILE: WA_Sales_Products_2012-14.csv
   Purpose: provides the data in comma-separated values
-  Origin: https://community.watsonanalytics.com/wp-content/uploads/2015/08/WA_Sales_Products_2012-14.csv
+  Origin: [Origin](https://community.watsonanalytics.com/wp-content/uploads/2015/08/WA_Sales_Products_2012-14.csv)
 
